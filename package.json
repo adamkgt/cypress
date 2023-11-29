@@ -1,0 +1,20 @@
+{
+  "name": "adam",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  },
+  "dependencies": {
+    "d": "^1.0.1",
+    "pnpm": "^8.11.0",
+    "yar": "^9.1.0",
+    "yarn": "^1.22.21"
+  }
+}
